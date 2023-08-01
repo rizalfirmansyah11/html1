@@ -1,0 +1,33 @@
+.border{
+    border: 1px solid;
+}
+
+.wadah {
+    width: 1000px;
+    margin: auto;
+}
+
+
+.warna{
+    background-color: yellow;
+}
+
+img{
+    width: 100px;
+}
+
+.card {
+    width: 30%;
+}
+
+.horizontal {
+    padding: 10px;
+    display: flex;
+   justify-content: center;
+   gap: 50px;
+}
+
+
+.rata{
+    text-align: center;
+}
